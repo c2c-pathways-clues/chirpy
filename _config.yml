@@ -16,36 +16,36 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/Chicago
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: C2C Pathways                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Center to Career/College Program    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  BEST BUY TEEN TECH CENTERS IN 21 U.S. COMMUNITIES have been selected to create C2C Pathways programming at their sites in 2020-21. Building on lessons learned from prior years, C2C Pathways to Success programs will provide selected youth with the opportunity to focus on a specific area of technology (e.g., web development, tech support, graphic design), develop their workforce readiness skills.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
 
 github:
-  username: github_username             # change to your github username
+  username: c2c-pathways-clues             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: TechMentorGreg            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Gregory Romero - C2C Facilitator
+  email: # example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/TechMentorGreg      # change to your twitter homepage
+    - https://github.com/c2c-pathways-clues       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -73,7 +73,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode:   dark # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://pbs.twimg.com/profile_images/1527694205103050759/arKrRtTc_400x400.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
